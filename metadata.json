@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FlavorGenius AI",
+  "description": "An intelligent AI-powered recipe generator and meal planner that crafts personalized culinary experiences based on your pantry and preferences.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
